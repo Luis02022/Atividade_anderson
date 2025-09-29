@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(135deg, #6441A5, #2a73ff);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+  }
+  
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  .container {
+    background: #fff;
+    padding: 40px;
+    border-radius: 21px;
+    width: 100%;
+    max-width: 800px;
+    
+  }
+  input, button {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    font-size: 15px;
+    border-radius: 10px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+  th, td {
+    padding: 10px;
+  }
